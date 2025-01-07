@@ -8,7 +8,7 @@ Check every folder for the solutions of each year. Each folder contains a `READM
 
 ## 🔄 Years
 
-[Advent of Code 2024](./2024/README.md)
+[Advent of Code 2024](./2024)
 
 ---
 
