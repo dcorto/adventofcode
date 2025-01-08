@@ -19,10 +19,11 @@ This repository contains my solutions for the [Advent of Code 2015](https://adve
 
 ## ⭐ Solutions
 
-| **Day**                                                                         | **Solution**                                                                   | **Runtime(A & B)**    | **Comments** |
-|---------------------------------------------------------------------------------|--------------------------------------------------------------------------------|-----------------------|--------------|
-| [Day 1: Not Quite Lisp](https://adventofcode.com/2015/day/1)                    | [Link](https://github.com/dcorto/adventofcode/blob/master/2015/1/main.go) ⭐️⭐️ | 313.423µs & 219.296µs |              |
-| [Day 2: I Was Told There Would Be No Math](https://adventofcode.com/2015/day/2) | [Link](https://github.com/dcorto/adventofcode/blob/master/2015/2/main.go) ⭐️⭐️ | 539.535µs & 466.853µs |              |
+| **Day**                                                                              | **Solution**                                                                   | **Runtime(A & B)**     | **Comments** |
+|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|------------------------|--------------|
+| [Day 1: Not Quite Lisp](https://adventofcode.com/2015/day/1)                         | [Link](https://github.com/dcorto/adventofcode/blob/master/2015/1/main.go) ⭐️⭐️ | 313.423µs & 219.296µs  |              |
+| [Day 2: I Was Told There Would Be No Math](https://adventofcode.com/2015/day/2)      | [Link](https://github.com/dcorto/adventofcode/blob/master/2015/2/main.go) ⭐️⭐️ | 539.535µs & 466.853µs  |              |
+| [Day 3: Perfectly Spherical Houses in a Vacuum](https://adventofcode.com/2015/day/3) | [Link](https://github.com/dcorto/adventofcode/blob/master/2015/3/main.go) ⭐️⭐️ | 1.641646ms & 1.42401ms |              |
 
 ## 📝 Notes
 
