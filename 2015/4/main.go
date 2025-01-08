@@ -44,11 +44,6 @@ func solutionA() int {
 	return solution
 }
 
-func getMD5Hash(input string) string {
-	hash := md5.Sum([]byte(input))
-	return fmt.Sprintf("%x", hash)
-}
-
 func solutionB() int {
 	var solution = 0
 
@@ -69,4 +64,10 @@ func solutionB() int {
 
 	solution = number
 	return solution
+}
+
+// getMD5Hash returns the MD5 hash of the input string
+func getMD5Hash(input string) string {
+	hash := md5.Sum([]byte(input))
+	return fmt.Sprintf("%x", hash)
 }

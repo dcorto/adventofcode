@@ -25,6 +25,7 @@ This repository contains my solutions for the [Advent of Code 2015](https://adve
 | [Day 2: I Was Told There Would Be No Math](https://adventofcode.com/2015/day/2)      | [Link](https://github.com/dcorto/adventofcode/blob/master/2015/2/main.go) ⭐️⭐️ | 539.53µs & 466.85µs |              |
 | [Day 3: Perfectly Spherical Houses in a Vacuum](https://adventofcode.com/2015/day/3) | [Link](https://github.com/dcorto/adventofcode/blob/master/2015/3/main.go) ⭐️⭐️ | 1.64ms & 1.42ms     |              |
 | [Day 4: The Ideal Stocking Stuffer](https://adventofcode.com/2015/day/4)             | [Link](https://github.com/dcorto/adventofcode/blob/master/2015/4/main.go) ⭐️⭐️ | 765.43ms & 1.70s    |              |
+| [Day 5: Doesn't He Have Intern-Elves For This?](https://adventofcode.com/2015/day/5) | [Link](https://github.com/dcorto/adventofcode/blob/master/2015/5/main.go) ⭐️⭐️ | 1.60ms & 1.13ms     |              |
 
 ## 📝 Notes
 
