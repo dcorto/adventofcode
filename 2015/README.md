@@ -19,14 +19,15 @@ This repository contains my solutions for the [Advent of Code 2015](https://adve
 
 ## ⭐ Solutions
 
-| **Day**                                                                              | **Solution**                                                                   | **Runtime(A & B)**  | **Comments** |
-|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|---------------------|--------------|
-| [Day 1: Not Quite Lisp](https://adventofcode.com/2015/day/1)                         | [Link](https://github.com/dcorto/adventofcode/blob/master/2015/1/main.go) ⭐️⭐️ | 313.42µs & 219.29µs |              |
-| [Day 2: I Was Told There Would Be No Math](https://adventofcode.com/2015/day/2)      | [Link](https://github.com/dcorto/adventofcode/blob/master/2015/2/main.go) ⭐️⭐️ | 539.53µs & 466.85µs |              |
-| [Day 3: Perfectly Spherical Houses in a Vacuum](https://adventofcode.com/2015/day/3) | [Link](https://github.com/dcorto/adventofcode/blob/master/2015/3/main.go) ⭐️⭐️ | 1.64ms & 1.42ms     |              |
-| [Day 4: The Ideal Stocking Stuffer](https://adventofcode.com/2015/day/4)             | [Link](https://github.com/dcorto/adventofcode/blob/master/2015/4/main.go) ⭐️⭐️ | 765.43ms & 1.70s    |              |
-| [Day 5: Doesn't He Have Intern-Elves For This?](https://adventofcode.com/2015/day/5) | [Link](https://github.com/dcorto/adventofcode/blob/master/2015/5/main.go) ⭐️⭐️ | 1.60ms & 1.13ms     |              |
-| [Day 6: Probably a Fire Hazard](https://adventofcode.com/2015/day/6)                 | [Link](https://github.com/dcorto/adventofcode/blob/master/2015/6/main.go) ⭐️⭐️ | ................    |              |
+| **Day**                                                                              | **Solution**                                                                   | **Runtime(A & B)**  | **Comments**                                                                                                                            |
+|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| [Day 1: Not Quite Lisp](https://adventofcode.com/2015/day/1)                         | [Link](https://github.com/dcorto/adventofcode/blob/master/2015/1/main.go) ⭐️⭐️ | 313.42µs & 219.29µs |                                                                                                                                         |
+| [Day 2: I Was Told There Would Be No Math](https://adventofcode.com/2015/day/2)      | [Link](https://github.com/dcorto/adventofcode/blob/master/2015/2/main.go) ⭐️⭐️ | 539.53µs & 466.85µs |                                                                                                                                         |
+| [Day 3: Perfectly Spherical Houses in a Vacuum](https://adventofcode.com/2015/day/3) | [Link](https://github.com/dcorto/adventofcode/blob/master/2015/3/main.go) ⭐️⭐️ | 1.64ms & 1.42ms     |                                                                                                                                         |
+| [Day 4: The Ideal Stocking Stuffer](https://adventofcode.com/2015/day/4)             | [Link](https://github.com/dcorto/adventofcode/blob/master/2015/4/main.go) ⭐️⭐️ | 765.43ms & 1.70s    |                                                                                                                                         |
+| [Day 5: Doesn't He Have Intern-Elves For This?](https://adventofcode.com/2015/day/5) | [Link](https://github.com/dcorto/adventofcode/blob/master/2015/5/main.go) ⭐️⭐️ | 1.60ms & 1.13ms     |                                                                                                                                         |
+| [Day 6: Probably a Fire Hazard](https://adventofcode.com/2015/day/6)                 | [Link](https://github.com/dcorto/adventofcode/blob/master/2015/6/main.go) ⭐️⭐️ | 73.30ms & 113.15ms  |                                                                                                                                         |
+| [Day 7: Some Assembly Required](https://adventofcode.com/2015/day/7)                 | [Link](https://github.com/dcorto/adventofcode/blob/master/2015/7/main.go) ⭐️⭐️ | 29.44ms & 31.63ms   | Very similar of [Day 24 of Year 2024](../2024/24/main.go) but in this case de input was different, but the main idea is pretty the same |
 
 ## 📝 Notes
 
@@ -45,3 +46,5 @@ This repository contains my solutions for the [Advent of Code 2015](https://adve
 ---
 
 Happy coding and good luck with Advent of Code 2015! 🎉
+
+
