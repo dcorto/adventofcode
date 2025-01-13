@@ -28,6 +28,7 @@ This repository contains my solutions for the [Advent of Code 2015](https://adve
 | [Day 5: Doesn't He Have Intern-Elves For This?](https://adventofcode.com/2015/day/5) | [Link](https://github.com/dcorto/adventofcode/blob/master/2015/5/main.go) ⭐️⭐️ | 1.60ms & 1.13ms     |                                                                                                                                         |
 | [Day 6: Probably a Fire Hazard](https://adventofcode.com/2015/day/6)                 | [Link](https://github.com/dcorto/adventofcode/blob/master/2015/6/main.go) ⭐️⭐️ | 73.30ms & 113.15ms  |                                                                                                                                         |
 | [Day 7: Some Assembly Required](https://adventofcode.com/2015/day/7)                 | [Link](https://github.com/dcorto/adventofcode/blob/master/2015/7/main.go) ⭐️⭐️ | 29.44ms & 31.63ms   | Very similar of [Day 24 of Year 2024](../2024/24/main.go) but in this case de input was different, but the main idea is pretty the same |
+| [Day 8: Matchsticks](https://adventofcode.com/2015/day/8)                            | [Link](https://github.com/dcorto/adventofcode/blob/master/2015/8/main.go) ⭐️⭐️ | 181.19µs & 1.075ms  |                                                                                                                                         |
 
 ## 📝 Notes
 
@@ -46,5 +47,3 @@ This repository contains my solutions for the [Advent of Code 2015](https://adve
 ---
 
 Happy coding and good luck with Advent of Code 2015! 🎉
-
-
