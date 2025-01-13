@@ -5,7 +5,7 @@
 
 # Check arguments
 if [ "$#" -ne 2 ]; then
-    echo "Usage: $0 <year> <day> 2"
+    echo "Usage: $0 <year> <day>"
     exit 1
 fi
 
