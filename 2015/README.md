@@ -32,6 +32,7 @@ This repository contains my solutions for the [Advent of Code 2015](https://adve
 | [Day 9: All in a Single Night](https://adventofcode.com/2015/day/9)                  | [Link](https://github.com/dcorto/adventofcode/blob/master/2015/9/main.go)       | ------------------- | TODO: Work in progres...                                                                                                                |
 | [Day 10: Elves Look, Elves Say](https://adventofcode.com/2015/day/10)                | [Link](https://github.com/dcorto/adventofcode/blob/master/2015/10/main.go) ⭐️⭐️ | 514.53ms && 4.70s   |                                                                                                                                         |
 | [Day 11: Corporate Policy](https://adventofcode.com/2015/day/11)                     | [Link](https://github.com/dcorto/adventofcode/blob/master/2015/11/main.go) ⭐️⭐️ | 13.93ms & 591.80ms  |                                                                                                                                         |
+| [Day 12: JSAbacusFramework.io](https://adventofcode.com/2015/day/12)                 | [Link](https://github.com/dcorto/adventofcode/blob/master/2015/12/main.go) ⭐️⭐️ | 32.52ms & 4.58ms    | Found "inspiration" in the [reddit megathread](https://www.reddit.com/r/adventofcode/comments/3wh73d/day_12_solutions/)                 |
 
 ## 📝 Notes
 
