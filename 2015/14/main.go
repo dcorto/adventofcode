@@ -42,6 +42,7 @@ func solutionA() int {
 		fmt.Println("Error:", err)
 		return solution
 	}
+
 	var deer []Reindeer
 	for _, line := range lines {
 		reindeer := parseLine(line)
@@ -67,6 +68,7 @@ func solutionB() int {
 		fmt.Println("Error:", err)
 		return solution
 	}
+
 	var deer []Reindeer
 	for _, line := range lines {
 		reindeer := parseLine(line)
