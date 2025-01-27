@@ -4,6 +4,7 @@ import (
 	"bufio"
 	"fmt"
 	"os"
+	"strconv"
 )
 
 // ReadLinesFromFile reads a file and returns a slice of strings one for each line
@@ -45,4 +46,14 @@ func ReadFromFile(path string) (string, error) {
 
 	content := string(data)
 	return content, nil
+}
+
+// Atoi cast a string to an integer
+func Atoi(line string) int {
+	n, err := strconv.Atoi(line)
+	if err != nil {
+		fmt.Println("Error casting string to int:", err)
+		return 0
+	}
+	return n
 }
