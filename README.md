@@ -22,6 +22,14 @@ $ ./create_day.sh 2024 1
 
 [Advent of Code 2024](./2024)
 
+[Advent of Code 2023](https://github.com/dcorto/adventofcode2023)
+
+[Advent of Code 2022](https://github.com/dcorto/adventofcode2022)
+
+[Advent of Code 2021](https://github.com/dcorto/adventofcode2021)
+
+[Advent of Code 2015](./2015)
+
 ---
 
 Happy coding and good luck with Advent of Code! 🎉
