@@ -40,6 +40,7 @@ This repository contains my solutions for the [Advent of Code 2015](https://adve
 | [Day 18: Like a GIF For Your Yard](https://adventofcode.com/2015/day/18)             | [Link](18/main.go) | ⭐️⭐️      | `116.90ms & 148.12ms` |                                                                                                                                        |
 | [Day 19: Medicine for Rudolph](https://adventofcode.com/2015/day/19)                 | [Link](19/main.go) | ⭐️        | `1.28ms & ?????`      | TODO: finish part2, i'm stuck :(                                                                                                       |
 | [Day 20: Infinite Elves and Infinite Houses](https://adventofcode.com/2015/day/20)   | [Link](20/main.go) | ⭐️️⭐️️    | `10.47s & 12.23s`     | Found "inspiration" in the [reddit megathread](https://www.reddit.com/r/adventofcode/comments/3xjpp2/day_20_solutions/)                |
+| [Day 21: RPG Simulator 20XX](https://adventofcode.com/2015/day/21)                   | [Link](21/main.go) | ⭐️️⭐️️    | `6.95ms & 7.81ms`     |                                                                                                                                        |
 
 ## 📝 Notes
 

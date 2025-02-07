@@ -1,0 +1,3 @@
+Hit Points: 100
+Damage: 1
+Armor: 5
