@@ -1,1 +1,2 @@
-test-input-1.txt
+Hit Points: 21
+Damage: 3
