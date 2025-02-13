@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"math/rand"
 	"strings"
 	"time"
 	"utils"
@@ -48,8 +49,8 @@ func solutionA() int {
 			molecule = line
 		} else {
 			r := strings.Split(line, " => ")
-			lol := Replacement{from: r[0], to: r[1]}
-			replacements = append(replacements, lol)
+			replacement := Replacement{from: r[0], to: r[1]}
+			replacements = append(replacements, replacement)
 		}
 	}
 
@@ -71,6 +72,70 @@ func solutionA() int {
 }
 
 func solutionB() int {
-	var solution = 0
-	return solution
+	lines, err := utils.ReadLinesFromFile(fmt.Sprintf("%d/input.txt", day))
+	if err != nil {
+		fmt.Println("Error:", err)
+		return 0
+	}
+
+	isMolecule := false
+	var molecule string
+	var replacements = map[string][]string{}
+	for _, line := range lines {
+		if line == "" {
+			isMolecule = true
+			continue
+		}
+
+		if isMolecule {
+			molecule = line
+		} else {
+			r := strings.Split(line, " => ")
+			from, to := r[0], r[1]
+			replacements[from] = append(replacements[from], to)
+		}
+	}
+
+	randomReplacements := getRandomMappings(replacements)
+	steps := 0
+
+	for molecule != "e" {
+		replaced := false
+		for k, v := range randomReplacements {
+			if strings.Contains(molecule, k) {
+				molecule = strings.Replace(molecule, k, v, 1)
+				steps++
+				replaced = true
+				break
+			}
+		}
+		if !replaced {
+			return steps
+		}
+	}
+
+	return steps
+}
+
+// getRandomMappings returns a map with the keys of the input map in a random order
+func getRandomMappings(input map[string][]string) map[string]string {
+	reverse := make(map[string]string)
+	for start, results := range input {
+		for _, res := range results {
+			reverse[res] = start
+		}
+	}
+	keys := make([]string, 0, len(reverse))
+	for k := range reverse {
+		keys = append(keys, k)
+	}
+	rand.Seed(time.Now().UnixNano())
+	rand.Shuffle(len(keys), func(i, j int) {
+		keys[i], keys[j] = keys[j], keys[i]
+	})
+	sortedRandom := make(map[string]string)
+	for _, k := range keys {
+		sortedRandom[k] = reverse[k]
+	}
+	return sortedRandom
 }
