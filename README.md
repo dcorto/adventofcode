@@ -28,6 +28,8 @@ $ ./create_day.sh 2024 1
 
 [Advent of Code 2021](https://github.com/dcorto/adventofcode2021)
 
+[Advent of Code 2016](./2016)
+
 [Advent of Code 2015](./2015)
 
 ---
