@@ -1,1 +1,1 @@
-test-input-2.txt
+R8, R4, R4, R8
