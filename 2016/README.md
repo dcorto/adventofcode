@@ -22,6 +22,7 @@ This repository contains my solutions for the [Advent of Code 2016](https://adve
 | **Day**                                                             | **Solution**      | **Stars** | **Runtime (A & B)**   | **Comments** |
 |---------------------------------------------------------------------|-------------------|-----------|-----------------------|--------------|
 | [Day 1: No Time for a Taxicab](https://adventofcode.com/2016/day/1) | [Link](1/main.go) | ⭐️⭐️      | `107.59µs & 419.90µs` |              |
+| [Day 2: Bathroom Security](https://adventofcode.com/2016/day/2)     | [Link](2/main.go) | ⭐️⭐️      | `217.91µs & 112.63µs` |              |
 
 ## 📝 Notes
 
@@ -44,3 +45,4 @@ This repository contains my solutions for the [Advent of Code 2016](https://adve
 ---
 
 Happy coding and good luck with Advent of Code 2016! 🎉
+
