@@ -19,12 +19,14 @@ This repository contains my solutions for the [Advent of Code 2016](https://adve
 
 ## ⭐ Solutions
 
-| **Day**                                                                  | **Solution**      | **Stars** | **Runtime (A & B)**   | **Comments** |
-|--------------------------------------------------------------------------|-------------------|-----------|-----------------------|--------------|
-| [Day 1: No Time for a Taxicab](https://adventofcode.com/2016/day/1)      | [Link](1/main.go) | ⭐️⭐️      | `107.59µs & 419.90µs` |              |
-| [Day 2: Bathroom Security](https://adventofcode.com/2016/day/2)          | [Link](2/main.go) | ⭐️⭐️      | `217.91µs & 112.63µs` |              |
-| [Day 3: Squares With Three Sides](https://adventofcode.com/2016/day/3)   | [Link](3/main.go) | ⭐️⭐️      | `13.03ms & 7.86ms`    |              |
-| [Day 4: Security Through Obscurity](https://adventofcode.com/2016/day/4) | [Link](4/main.go) | ⭐️⭐️      | `32.08ms & 34.55ms`   |              |
+| **Day**                                                                       | **Solution**      | **Stars** | **Runtime (A & B)**   | **Comments** |
+|-------------------------------------------------------------------------------|-------------------|-----------|-----------------------|--------------|
+| [Day 1: No Time for a Taxicab](https://adventofcode.com/2016/day/1)           | [Link](1/main.go) | ⭐️⭐️      | `107.59µs & 419.90µs` |              |
+| [Day 2: Bathroom Security](https://adventofcode.com/2016/day/2)               | [Link](2/main.go) | ⭐️⭐️      | `217.91µs & 112.63µs` |              |
+| [Day 3: Squares With Three Sides](https://adventofcode.com/2016/day/3)        | [Link](3/main.go) | ⭐️⭐️      | `13.03ms & 7.86ms`    |              |
+| [Day 4: Security Through Obscurity](https://adventofcode.com/2016/day/4)      | [Link](4/main.go) | ⭐️⭐️      | `32.08ms & 34.55ms`   |              |
+| [Day 5: How About a Nice Game of Chess?](https://adventofcode.com/2016/day/5) | [Link](5/main.go) | ⭐️⭐️      | `10.12s & 30.32s`     |              |
+
 
 ## 📝 Notes
 
