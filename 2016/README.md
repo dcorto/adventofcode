@@ -26,8 +26,8 @@ This repository contains my solutions for the [Advent of Code 2016](https://adve
 | [Day 3: Squares With Three Sides](https://adventofcode.com/2016/day/3)        | [Link](3/main.go) | ⭐️⭐️      | `13.03ms & 7.86ms`    |              |
 | [Day 4: Security Through Obscurity](https://adventofcode.com/2016/day/4)      | [Link](4/main.go) | ⭐️⭐️      | `32.08ms & 34.55ms`   |              |
 | [Day 5: How About a Nice Game of Chess?](https://adventofcode.com/2016/day/5) | [Link](5/main.go) | ⭐️⭐️      | `10.12s & 30.32s`     |              |
-| [Day 6: Signals and Noise](https://adventofcode.com/2016/day/6)               | [Link](6/main.go) | ⭐️⭐️      | `820.65µs 702.45µs`   |              |
-
+| [Day 6: Signals and Noise](https://adventofcode.com/2016/day/6)               | [Link](6/main.go) | ⭐️⭐️      | `820.65µs & 702.45µs` |              |
+| [Day 7: Internet Protocol Version 7](https://adventofcode.com/2016/day/7)     | [Link](7/main.go) | ⭐️⭐️      | `352.77ms & 305.54ms` |              |
 
 ## 📝 Notes
 
