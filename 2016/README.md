@@ -28,6 +28,7 @@ This repository contains my solutions for the [Advent of Code 2016](https://adve
 | [Day 5: How About a Nice Game of Chess?](https://adventofcode.com/2016/day/5) | [Link](5/main.go) | ⭐️⭐️      | `10.12s & 30.32s`     |              |
 | [Day 6: Signals and Noise](https://adventofcode.com/2016/day/6)               | [Link](6/main.go) | ⭐️⭐️      | `820.65µs & 702.45µs` |              |
 | [Day 7: Internet Protocol Version 7](https://adventofcode.com/2016/day/7)     | [Link](7/main.go) | ⭐️⭐️      | `352.77ms & 305.54ms` |              |
+| [Day 8: Two-Factor Authentication](https://adventofcode.com/2016/day/8)       | [Link](8/main.go) | ⭐️⭐️      | `688.06µs & 1.04ms`   |              |
 
 ## 📝 Notes
 
