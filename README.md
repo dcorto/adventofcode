@@ -20,6 +20,8 @@ $ ./create_day.sh 2024 1
 
 ## 🔄 Years
 
+[Advent of Code 2025](./2025)
+
 [Advent of Code 2024](./2024)
 
 [Advent of Code 2023](https://github.com/dcorto/adventofcode2023)
