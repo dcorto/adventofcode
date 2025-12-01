@@ -1,4 +1,4 @@
-# 🎄 Advent of Code | int y=2025;
+# 🎄 Advent of Code | {year=>2025}
 
 This repository contains my solutions for the [Advent of Code 2025](https://adventofcode.com/2025) challenges, implemented in **Go (Golang)**.
 
@@ -19,9 +19,9 @@ This repository contains my solutions for the [Advent of Code 2025](https://adve
 
 ## ⭐ Solutions
 
-| **Day**                                                                | **Solution**                                                              | **Comments**                                                                                                                                                                                                                                                                                       |
-|------------------------------------------------------------------------|---------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Day 1: Historian Hysteria](https://adventofcode.com/2024/day/1)       | [Link](https://github.com/dcorto/adventofcode/blob/master/2025/1/main.go) |                                                                                                                                                                                                                                                                                                    |
+| **Day**                                                       | **Solution**                                                              | **Comments** |
+|---------------------------------------------------------------|---------------------------------------------------------------------------|--------------|
+| [Day 1: Secret Entrance](https://adventofcode.com/2025/day/1) | [Link](https://github.com/dcorto/adventofcode/blob/master/2025/1/main.go) |              |
 
 ## 📝 Notes
 
