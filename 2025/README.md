@@ -26,6 +26,7 @@ This repository contains my solutions for the [Advent of Code 2025](https://adve
 | [Day 3: Lobby](https://adventofcode.com/2025/day/3)               | [Link](https://github.com/dcorto/adventofcode/blob/master/2025/3/main.go) |              |
 | [Day 4: Printing Department](https://adventofcode.com/2025/day/4) | [Link](https://github.com/dcorto/adventofcode/blob/master/2025/4/main.go) |              |
 | [Day 5: Cafeteria](https://adventofcode.com/2025/day/5)           | [Link](https://github.com/dcorto/adventofcode/blob/master/2025/5/main.go) |              |
+| [Day 6: Trash Compactor](https://adventofcode.com/2025/day/6)     | [Link](https://github.com/dcorto/adventofcode/blob/master/2025/6/main.go) |              |
 
 ## 📝 Notes
 
