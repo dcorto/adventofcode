@@ -19,7 +19,7 @@ func main() {
 	fmt.Println("Solution for Day", day)
 
 	startTimeA := time.Now()
-	solutionA := 0 //solutionA()
+	solutionA := solutionA()
 	fmt.Println("Solution A:", solutionA, "(Time:", time.Since(startTimeA), ")")
 
 	startTimeB := time.Now()
