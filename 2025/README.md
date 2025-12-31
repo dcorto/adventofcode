@@ -30,6 +30,7 @@ This repository contains my solutions for the [Advent of Code 2025](https://adve
 | [Day 7: Laboratories](https://adventofcode.com/2025/day/7)        | [Link](https://github.com/dcorto/adventofcode/blob/master/2025/7/main.go) |              |
 | [Day 8: Playground](https://adventofcode.com/2025/day/8)          | [Link](https://github.com/dcorto/adventofcode/blob/master/2025/8/main.go) |              |
 | [Day 9: Movie Theater](https://adventofcode.com/2025/day/9)       | [Link](https://github.com/dcorto/adventofcode/blob/master/2025/9/main.go) |              |
+| [Day 10: Factory](https://adventofcode.com/2025/day/10)       | [Link](https://github.com/dcorto/adventofcode/blob/master/2025/10/main.go) |              |
 
 ## 📝 Notes
 
